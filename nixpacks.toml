@@ -1,0 +1,5 @@
+[build]
+language = "php"
+
+[php]
+runtime_version = "8.1" # Version PHP recommandée pour Symfony
