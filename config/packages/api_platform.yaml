@@ -1,7 +1,0 @@
-api_platform:
-  formats:
-    jsonld: ['application/ld+json']
-    json: ['application/json']
-    html: ['text/html']
-    # Ajouter multipart ici
-    multipart: ['multipart/form-data']
